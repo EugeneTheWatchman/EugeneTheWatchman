@@ -1,16 +1,13 @@
-### Hi there 👋
+### russian
 
-<!--
-**EugeneTheWatchman/EugeneTheWatchman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+В данный момент я учусь в магистратуре на специальности прикладная информатика, на кафедре экономики.  
+Бакалавриат закончил на специальность инженера по инфокоммуникациям и связи.  
+Мои любимые предметы - это математика и статистика.  
+Мне нравитсся изучать новые языки программирования на практике, решая различные задачи.  
 
-Here are some ideas to get you started:
+### english
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently studying for a master's degree in computer science at the department of economics.  
+I received a bachelor's degree in infocommunications engineering.  
+My favorite subjects are mathematics and statistics.  
+I like to learn new programming languages in practice, solving various problems.  
